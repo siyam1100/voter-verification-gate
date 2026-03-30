@@ -1,0 +1,11 @@
+{
+  "name": "voter-verification-gate",
+  "version": "1.0.0",
+  "description": "Discord-to-Ethereum identity mapping",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "ethers": "^6.10.0",
+    "sqlite3": "^5.1.7",
+    "dotenv": "^16.3.1"
+  }
+}
